@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hervanta">
+        <item>3</item>
+        <item>3V</item>
+        <item>20</item>
+        <item>4</item>
+        <item>13</item>
+        <item>5</item>
+        <item>32</item>
+        <item>Y4</item>
+        <item>65</item>
+    </string-array>
+</resources>
