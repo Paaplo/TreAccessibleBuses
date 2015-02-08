@@ -1,7 +1,7 @@
 package com.example.tampereenbussit;
 
 /**
- * Created by Pasi on 30.1.2014.
+ * Thanks to Ravi Tamada http://www.androidhive.info/2012/01/android-json-parsing-tutorial/
  */import java.io.IOException;
 import java.io.UnsupportedEncodingException;
 import java.util.List;
